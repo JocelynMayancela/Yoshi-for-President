@@ -1,0 +1,30 @@
+body{
+ background-color:lightgreen;   
+}
+
+h1{
+ font-family: 'Bungee', cursive;
+ text-align:center;
+ font-size:60px;
+ background-color:lightblue;
+ border:dotted #D6FFEB 4px;
+}
+p{
+ font-size:30px; 
+}
+
+.center {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+button{
+ font-size:16px; 
+ color:blue;
+background-color:lightblue;
+}
+
+
+
+
